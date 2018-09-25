@@ -1,10 +1,11 @@
 # using-expressions
-A simple application using Verbal Expressions 
+A simple node application demostarting the use of Verbal Expressions.
 
 ## Instructions
-Note: You must have node.js installed to run this project.
+1. run npm install 
+1. run npm start
 
-Type NPM START to run the application
+Note: You must have node.js installed to run this project.
 
 ## Reference 
 Link to [a blog][1] describing how to use verbal expressions from node.
